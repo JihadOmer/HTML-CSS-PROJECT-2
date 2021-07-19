@@ -137,8 +137,8 @@ header nav .form i {
 
 .landing {
     min-height: 100vh;
-    background-color: rgb(6, 161, 135);
     background-image: url(../images/owl_2.jpg);
+    background-color: rgb(6, 161, 135);
     background-size: cover;
     position: relative;
     }
